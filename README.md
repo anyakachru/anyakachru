@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-~$ git clone https://github.com/anyakachru/anyakachru.github.io
+~$ git clone https://github.com/anyakachru/anyakachru
+
